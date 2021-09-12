@@ -1,6 +1,5 @@
 package com.dio.live.model;
 
-
 import lombok.*;
 
 @Getter
@@ -9,9 +8,5 @@ import lombok.*;
 @NoArgsConstructor
 @EqualsAndHashCode
 @Builder
-
-public class jornadaTrabalho {
-    private long id;
-    private String descricao;
-
+public class Localidade {
 }
