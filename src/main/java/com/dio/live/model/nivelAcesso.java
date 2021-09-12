@@ -9,9 +9,7 @@ import lombok.*;
 @NoArgsConstructor
 @EqualsAndHashCode
 @Builder
-
-public class jornadaTrabalho {
+public class nivelAcesso {
     private long id;
     private String descricao;
-
 }
